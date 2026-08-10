@@ -26,7 +26,7 @@ function Projects() {
           </div>
 
           <a
-            href="https://github.com/chabigorai53-cell/clinicappointmentsystem"
+            href="https://github.com/chavigorai/clinicappointmentsystem"
             target="_blank"
             rel="noopener noreferrer"
             className="btn"
@@ -55,7 +55,7 @@ function Projects() {
           </div>
 
           <a
-            href="https://github.com/chabigorai53-cell"
+            href="https://github.com/chavigorai"
             target="_blank"
             rel="noopener noreferrer"
             className="btn"
