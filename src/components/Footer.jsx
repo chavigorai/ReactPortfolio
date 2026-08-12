@@ -8,7 +8,7 @@ function Footer() {
 
         <div className="footer-links">
           <a
-            href="https://github.com/chabigorai53-cell"
+            href="https://github.com/chavigorai"
             target="_blank"
             rel="noopener noreferrer"
           >

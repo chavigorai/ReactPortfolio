@@ -17,7 +17,7 @@ function Navbar() {
 
       <div className="social-icons">
         <a
-          href="https://github.com/chabigorai53-cell"
+          href="https://github.com/chavigorai"
           target="_blank"
           rel="noreferrer"
         >

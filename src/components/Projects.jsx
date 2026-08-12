@@ -34,6 +34,41 @@ function Projects() {
             View GitHub
           </a>
         </div>
+        {/* Rule-Based AI Assistant */}
+<div className="project-card">
+  <div className="project-icon">🤖</div>
+
+  <h3>Rule-Based AI Assistant</h3>
+
+  <p>
+    A Python-based AI assistant built with Streamlit that provides
+    useful features such as AI information, calculator, password
+    generator, jokes, date and time utilities, and motivational quotes.
+  </p>
+
+  <div className="tech-stack">
+    <span>Python</span>
+    <span>Streamlit</span>
+  </div>
+
+  <a
+    href="https://chavi-ai-assistant.streamlit.app"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="btn"
+  >
+    Live Demo
+  </a>
+
+  <a
+    href="https://github.com/chavigorai/Rule_Based_AI_Assistant"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="btn"
+  >
+    View GitHub
+  </a>
+</div>
 
         {/* Personal Portfolio */}
         <div className="project-card">

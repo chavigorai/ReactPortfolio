@@ -44,7 +44,7 @@ function Contact() {
           <p>Explore my projects and code</p>
 
           <a
-            href="https://github.com/chabigorai53-cell"
+            href="https://github.com/chavigorai"
             target="_blank"
             rel="noopener noreferrer"
             className="contact-btn"
